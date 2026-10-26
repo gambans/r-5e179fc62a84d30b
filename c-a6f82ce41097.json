@@ -1,1 +1,7 @@
-{"status":"pending","product":"audio.nitro.vocodecs","message":"No validated plugin update published yet"}
+{
+  "version": "0.1.4",
+  "download_url": "https://raw.githubusercontent.com/gambans/r-5e179fc62a84d30b/main/p-a6f82ce41097-0.1.4.zip",
+  "sha256": "962e06cf8d6a5da0f1d6f35b61c5334da3a797809a18cfeabbbc0dfea8fe4de1",
+  "channel": "development",
+  "notes": "Original-layout development build; independent DSP, not a verified Vocodex emulation."
+}
